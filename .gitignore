@@ -1,0 +1,14 @@
+node_modules
+dist
+.claude/settings.local.json
+
+# Arquivos de trabalho que não vão para o repositório
+_previa-antiga
+site-ds2.zip
+Banco_Oficial_Daia_DS2
+*.tsbuildinfo
+.claude
+
+# Documentos internos (dados pessoais e da empresa): o repositório é público
+Site_e_migracao_DS2.md
+DESIGN.md
